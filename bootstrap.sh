@@ -14,7 +14,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shell env)' >> /home/bo/.profile -y
+echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> /home/bo/.profile -y
 eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 brew install gcc vim jq yq python3 docker kubectl
 
