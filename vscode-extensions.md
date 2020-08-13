@@ -1,0 +1,19 @@
+# VSCode extensions
+- python
+- c/c++
+- beautify
+- bracket pair colorizer
+- community material theme
+- material icon theme
+- material theme
+- material theme icons
+- docker
+- eslint
+- git history
+- gitlens
+- git blame
+- html snippets
+- javascript (ES6) code snippets
+- one dark pro
+- prettier
+- yaml

@@ -1,0 +1,47 @@
+{
+    "terminal.integrated.rendererType": "canvas",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.enableBold": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.rightClickCopyPaste": true,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    // "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "beautify.language": {
+
+        "js": {
+            "type": [
+                "javascript",
+                "json",
+                "jsonc"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautifyrc"
+            ]
+        },
+        "css": [
+            "css",
+            "less",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    }
+}
